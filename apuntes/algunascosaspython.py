@@ -34,3 +34,6 @@ titulo = "Bienvenido a esta encuesta para saber cuanto te gustan los quesos"
 print(titulo + '\n' + len(titulo) * '-' + '\n')
 lo que hace el print es imprimir la misma cantidad de '-' que caracteres que tiene la variable titulo 
 """
+
+# El ciclo while la mejor forma de traducirlo es como un mientras, mientras tal condicion sea cierta se va a ejecutar lo que este
+# dentro del while 
