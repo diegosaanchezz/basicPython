@@ -1,0 +1,5 @@
+sudo wget https://standards.ieee.org/content/dam/ieee-standards/standards/web/documents/tutorials/oui.txt -O /usr/share/arp-scan/oui.txt
+
+
+
+sudo arp-scan -I eth0 --localnet
